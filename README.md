@@ -3,6 +3,9 @@
 
 
 # TIDAK SEMUA HP MENDUKUNG
+# MENU DOMINO
+![IMG_20220806_161614](https://user-images.githubusercontent.com/110714229/183240864-c218281a-d56f-454d-b9fc-c82384e0df4d.jpg)
+
 #  VIDEO 
 https://user-images.githubusercontent.com/110714229/183240344-e27498a3-2a4c-4997-be76-5c3a47f48e40.mp4
 
