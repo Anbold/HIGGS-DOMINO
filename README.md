@@ -68,12 +68,12 @@ python run.py
 ##### catatan:
  gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.4131³331
 # Instalation
-Download apk Termuxnya disini biar ngga error 
-[Klik Disini](https://f-droid.org/repo/com.termux_117.apk)
+Download apk Termuxnya disini biar ngga error ✓
+[Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👍
 ```bash
 
 ```
-##  MY SOCIAL MEDIA
+##  📫MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/SyamsulB) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/djmusicjr7)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/Sy4msulBahri)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/djmusicjr7) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6281907761235?text=Asalamualaikum+Syamsul+B)
 ## KASIH BINTANG YAH BOCIL 
